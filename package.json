@@ -1,0 +1,11 @@
+{
+	"name": "ihaveadreamspeec.us",
+	"version": "0.0.1",
+	"devDependencies": {
+		"serve": "1.1.0"
+	},
+
+	"scripts": {
+		"start": "./node_modules/.bin/serve -p 3968 -D ./www"
+	}
+}
